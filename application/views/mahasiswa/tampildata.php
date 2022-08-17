@@ -15,7 +15,7 @@
                             </th>
                             <th>No</th>
                             <th>NOBP</th>
-                            <th>Nama Mahasiswa</th>
+                            <th>Nama Indi Ramadhan</th>
                             <th>Tempat Lahir</th>
                             <th>Tgl.Lahir</th>
                             <th>Jenkel</th>
